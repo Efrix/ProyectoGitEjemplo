@@ -1,2 +1,4 @@
 SegundoFichero
 Estoy modificando pero no he guardado
+
+este mensaje es desde el clon
